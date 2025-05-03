@@ -1,7 +1,7 @@
 # 🧠 What-If Generator
 
 An AI-powered tool that generates alternate history timelines based on any news article or historical event, visualized with an interactive D3.js graph.  
-Zoom, Pan, Drag, Export — build your own alternate realities!
+Zoom, Pan, Drag, Export build your own alternate realities!
 
 ---
 
